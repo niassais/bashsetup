@@ -1,2 +1,2 @@
 #! /usr/bin/bash
-echo zeb
+echo zeb yetgha kilbanana
